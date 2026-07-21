@@ -2,7 +2,7 @@
 import {Route, Routes } from 'react-router-dom'
 import Home from './pages/Home'
 import Work from './pages/Work'
-import Process from './pages/process'
+import Process from './pages/Process'
 import About from './pages/About'
 import NavBar from './components/NavBar/NavBar'
 import Contact from './pages/Contact'
