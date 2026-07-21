@@ -1,4 +1,4 @@
-import "./Dashboardnav.css"
+import "./DAshboardnav.css"
 const DashboardSidebar = ({ activeSection, onChange }) => {
     return (
         <section>
